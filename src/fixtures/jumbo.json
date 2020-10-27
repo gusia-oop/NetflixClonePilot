@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Enjoy on your TV.",
+    "subtitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+    "image": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/tv.png",
+    "alt": "Platforms on Netflix",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Download your programmes to watch on the go.",
+    "subtitle": "Save your data and watch all your favourites offline.",
+    "image": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/mobile-0819.jpg",
+    "alt": "Stranger Things on Netflix",
+    "direction": "row-reverse" 
+  },
+  {
+    "id": 3,
+    "title": "Watch everywhere.",
+    "subtitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+    "image": "https://assets.nflxext.com/ffe/siteui/acquisition/ourStory/fuji/desktop/device-pile.png",
+    "alt": "Stranger Things on Netflix",
+    "direction": "row"
+  }
+]
+  
